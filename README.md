@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hyunsung's Profile
+This is about myself, my projects, my interests, etc
 
-<!--
-**RaHyunsung/RaHyunsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello, my name is Hyunsung Ra. I am from South Korea.<br>
+I'm really interested in programming and designing.<br>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Past Digital Projects
+| Project Name | Latest Version | Github / Youtube / Project Link |
+| ---------------- | --------------- | --------------- |
+| Alpha Project | 2.0.0 | [https://github.com/rajashua/Alpha/](https://github.com/rajashua/Alpha/)
