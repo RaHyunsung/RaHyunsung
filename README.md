@@ -1,5 +1,5 @@
 # Hyunsung's Profile
-This is about myself, my projects, my interests, etc
+This is about myself, my projects, my interests, etc.
 
 ## About Me
 Hello, my name is Hyunsung Ra. I am from South Korea.<br>
