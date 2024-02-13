@@ -9,8 +9,9 @@ Hello, my name is Hyunsung Ra. I am from South Korea.<br>
 I'm really interested in programming and designing.<br>
 
 ## Why I choose digital tech?
-I choose digital tech because I spend my 1/3 of my life on programming.<br>
-I also really love programming.<br>
+1. Because I spend about 1/3 of my life on programming.
+2. Because I really love programming.
+3. Because I want to be a creative and intelligent person.
 
 ## What are the projects that I made in past?
 | Name | Latest | Link | Language | Description |
