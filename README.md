@@ -1,10 +1,10 @@
 <img src="DevHolic.jpg" width="200">
 
-# DevHolic's Profile
+# Profile of DevHolic
 DevHolic is my id for programming.<br>
 This is about myself, my projects, my interests, etc.
 
-## About Me
+## Introduce
 Hello, my name is Hyunsung Ra. I am from South Korea.<br>
 I'm really interested in programming and designing.<br>
 
