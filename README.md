@@ -13,7 +13,7 @@ I also really love programming.<br>
 ## What are the projects that I made in past?
 | Name | Latest | Link | Language | Description |
 | -----| -------| ---- | -------- | ----------- |
-| Alpha Project | 2.0.0 | [Alpha](https://github.com/rajashua/Alpha/) | Python | Windows Remote Control Software |
-| Session Builder | 1.0.0 | [SessionBuilder](https://github.com/rajashua/SessionBuilder/) | Python | Base Server System |
-| HYDRA | 2.4.0 | [HYDRA](https://github.com/nexaofficialcompany/HYDRA) | Python | Computer Management Software |
-| SocketProxy | 2.0.0 | [SocketProxy](https://github.com/nexaofficialcompany/SocketProxy) | Python | Proxy Server |
+| Alpha Project | 2.0.0 | [github](https://github.com/rajashua/Alpha/) | Python | Windows Remote Control Software |
+| Session Builder | 1.0.0 | [github](https://github.com/rajashua/SessionBuilder/) | Python | Base Server System |
+| HYDRA | 2.4.0 | [github](https://github.com/nexaofficialcompany/HYDRA) | Python | Computer Management Software |
+| SocketProxy | 2.0.0 | [github](https://github.com/nexaofficialcompany/SocketProxy) | Python | Proxy Server |
