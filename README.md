@@ -2,14 +2,18 @@
 DevHolic used as an ID in programming.<br>
 <img src="DevHolic.jpg" width="200">
 
-## Introduce
-Hello, my name is Hyunsung Ra. I am from South Korea.<br>
-I'm really interested in programming and designing.<br>
+## Who am I?
+My name is Hyunsung Ra. I have a lot of IDs but my best one is DevHolic.<br>
+I spend around 30% of my life on programming.<br>
+I usually work by myself. However, I really want to work with other people.<br>
+I love musics with many echos. I also play the piano by myself. I used to learn in private school but I quited.<br>
+When I was young, I learned how to hack into servers, systems, applications, games, etc. However, I removed all those softwares to become a good person.<br>
 
 ## Why I choose digital tech?
-1. Because I spend about 1/3 of my life on programming.
-2. Because I really love programming.
-3. Because I want to be a creative and intelligent person.
+Firstly, I spend around 1/3 of my life on programming.<br>
+This made me big lover of programming.<br>
+Secondly, I want to learn something new about this topic.<br>
+I believe this will lead me to be a creative and intelligent person.<br>
 
 ## What are the projects that I made in past?
 | Name | Latest | Link | Language | Description |
@@ -33,3 +37,6 @@ I'm really interested in programming and designing.<br>
  - Inkscape, Blender, Pencil2D
  - XAMPP, FileZila FTP Client
  - some cyber security softwares
+
+## Aspirations
+> I will learn as much as I can so I can make a cool game with my friends.
